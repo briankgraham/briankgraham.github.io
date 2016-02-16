@@ -32,7 +32,8 @@
 					        document.getElementById('res').appendChild(img);
 					        handler.clicked = true;
 					} else {
-					        document.getElementById('res').removeChild('image');
+					        var remove = document.getElementById('image');
+					        document.getElementById('res').removeChild(remove);
 					        handler.clicked = false;
 					}
 				})
