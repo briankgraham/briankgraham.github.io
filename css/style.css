@@ -21,6 +21,9 @@ body{
     border-radius: 10px;
     font-family: helvetica;
 }
+#resume:focus{
+    outline:0;
+}
 #res{
     text-align:center;
 }
