@@ -21,11 +21,12 @@
 			<div>
 				<button id="resume">Click Here For My Resume</button>
 			</div>
+			<div id='res'></div>
 			<script>
 				document.getElementById('resume').addEventListener('click', function (e) {
 					var img = document.createElement('img');
 					img.src = "https://cloud.githubusercontent.com/assets/8714726/13088023/6cf040fc-d49f-11e5-8d82-e2fc16952ab5.png";
-					document.getElementById('resume').appendChild(img);
+					document.getElementById('res').appendChild(img);
 				})
 			</script>
 		</body>
