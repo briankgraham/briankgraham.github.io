@@ -2,6 +2,15 @@ body{
     margin:0;
     padding:0;
 }
+#angel{
+    
+}
+#linkedIn{
+    padding-right: 25px;
+}
+#github{
+    padding-left:25px;
+}
 #name{
     font-family: 'Quicksand', sans-serif;
     font-size: 70px;
