@@ -42,8 +42,3 @@ body{
 #res{
     text-align:center;
 }
-@media (min-width: 980px) {
-    #resume{
-        margin: 0 35%;
-    }
-}
