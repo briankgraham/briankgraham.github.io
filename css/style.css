@@ -2,8 +2,11 @@ body{
     margin:0;
     padding:0;
 }
-#angel{
-    
+#title{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    margin-top:15px;
+    text-align: center;  
 }
 #linkedIn{
     padding-right: 25px;
