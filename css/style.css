@@ -23,6 +23,9 @@ body{
     text-align: center;
     margin:40px 0 40px 0;
 }
+#resButton{
+    margin: 0 auto;
+}
 #resume{
     margin: 0 40% 0 42%;
     background-color: #000011;
