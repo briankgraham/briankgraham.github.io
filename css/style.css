@@ -31,7 +31,6 @@ body{
     height: 40px;
     font-size: 14px;
     border-radius: 10px;
-    font-family: helvetica;
 }
 #resume:focus{
     outline:0;
