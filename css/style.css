@@ -42,7 +42,7 @@ body{
 #res{
     text-align:center;
 }
-@media (max-width: 980px) {
+@media (min-width: 980px) {
     #resume{
         margin: 0 35%;
     }
